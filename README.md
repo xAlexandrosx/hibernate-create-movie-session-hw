@@ -1,5 +1,7 @@
 # Hibernate - create CinemaHall and MovieSession
 
+`mvn -DskipTests=false clean package`
+
 Let's continue working on our Cinema project.
 
 Your task is to implement the following steps:
